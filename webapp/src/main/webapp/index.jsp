@@ -1,1 +1,1 @@
- <h1> Welcome to webPage PollSCM Project</h1>
+ <h1> Welcome to PollSCM Project Server</h1>
